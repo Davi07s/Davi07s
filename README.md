@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal (IFPI).
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Piauí (IFPI - CACOR)
 - 🛠️ Atualmente focado em aprofundar conhecimentos em **Java**, **C** e **Desenvolvimento Web**.
 - 💡 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e colaborar em código aberto.
 
@@ -25,10 +25,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+**Desenvolvimento Mobile & Multiplataforma:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 📌 Projetos em Destaque
-*(Adicione links para seus repositórios principais)*
 
-- 📱 **[Nome do Projeto]**: Descrição rápida do que o projeto faz e tecnologias usadas.
-- 🌐 **[Nome do Projeto Web]**: Descrição do sistema ou aplicação web.
+
 
